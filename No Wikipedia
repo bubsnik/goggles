@@ -1,0 +1,6 @@
+! name: No wikipedia
+! description: Remove results from wikipedia
+! public: true
+! author: Craig
+
+$discard,site=wikipedia.org
