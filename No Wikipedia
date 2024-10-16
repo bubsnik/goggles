@@ -1,6 +1,6 @@
 ! name: No wikipedia
 ! description: Remove results from wikipedia
 ! public: true
-! author: Craig
+! author: Bubsnik (based on a Goggle from Craig)
 
 $discard,site=wikipedia.org
